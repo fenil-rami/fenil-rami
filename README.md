@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Fenil Rami
+- 👀 I’m interested in Web Development
+- 💞️ I’m looking to collaborate on Node.js and React.js Projects
+- 📫 How to reach me fenil.rami@bacancy.com
+- 😄 Pronouns: He/Him
